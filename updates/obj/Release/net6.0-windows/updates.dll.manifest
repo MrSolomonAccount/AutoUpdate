@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
-  <asmv1:assemblyIdentity name="updates.exe" version="1.0.0.0" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
+  <asmv1:assemblyIdentity name="updates.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
   <application />
   <entryPoint>
     <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16384">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="17376">
       <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>+r/zee/ZehCL10zKlN8EiBNvoPPxYMoBAYqnam19hj4=</dsig:DigestValue>
+        <dsig:DigestValue>1i68aNw7N2emxAHAXgxH5MkVKZVoBe4n2Rw4FmzyGZM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,22 +62,22 @@
       <dsig:DigestValue>qGQj/tEEdu+8REgdci8saJkm97SqWETTeuzl1m/pkMI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="updates.dll" size="6656">
+  <file name="updates.dll" size="7136">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>f5wr1T+XAC3oNMb03T+PjlORtlhCDL1WXEOH1mFxuyY=</dsig:DigestValue>
+      <dsig:DigestValue>ahCu88EqXXi6MaxK2mUq7gLhICcN1AJJfP11p2rNNcc=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="updates.exe" size="147968">
+  <file name="updates.exe" size="148448">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>FKjMV2ArTio2S+sXCjbQqSNr/f0pSEPwL0nIQj2/WGs=</dsig:DigestValue>
+      <dsig:DigestValue>IhkKWJnUMM3WTR6ojCNKdHisglX7bSl4NO37QwlbC08=</dsig:DigestValue>
     </hash>
   </file>
   <file name="updates.runtimeconfig.json" size="372">
