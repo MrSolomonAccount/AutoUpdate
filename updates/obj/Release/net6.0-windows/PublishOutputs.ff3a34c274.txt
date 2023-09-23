@@ -1,0 +1,5 @@
+C:\Users\daniel.solomon\source\repos\updates\updates\bin\Release\net6.0-windows\app.publish\updates.exe
+C:\Users\daniel.solomon\source\repos\updates\updates\bin\Release\net6.0-windows\app.publish\updates.dll
+C:\Users\daniel.solomon\source\repos\updates\updates\bin\Release\net6.0-windows\app.publish\updates.deps.json
+C:\Users\daniel.solomon\source\repos\updates\updates\bin\Release\net6.0-windows\app.publish\updates.runtimeconfig.json
+C:\Users\daniel.solomon\source\repos\updates\updates\bin\Release\net6.0-windows\app.publish\updates.pdb
