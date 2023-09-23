@@ -42,14 +42,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="17376">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Launcher.exe" size="16384">
       <assemblyIdentity name="Launcher" version="8.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>1i68aNw7N2emxAHAXgxH5MkVKZVoBe4n2Rw4FmzyGZM=</dsig:DigestValue>
+        <dsig:DigestValue>+r/zee/ZehCL10zKlN8EiBNvoPPxYMoBAYqnam19hj4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,22 +62,22 @@
       <dsig:DigestValue>qGQj/tEEdu+8REgdci8saJkm97SqWETTeuzl1m/pkMI=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="updates.dll" size="7136">
+  <file name="updates.dll" size="7168">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>ahCu88EqXXi6MaxK2mUq7gLhICcN1AJJfP11p2rNNcc=</dsig:DigestValue>
+      <dsig:DigestValue>Vs03S2QIzSS7k2m8sXcJWgdJ/YR/9xUjFAS3IhSB7rQ=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="updates.exe" size="148448">
+  <file name="updates.exe" size="147968">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>IhkKWJnUMM3WTR6ojCNKdHisglX7bSl4NO37QwlbC08=</dsig:DigestValue>
+      <dsig:DigestValue>FKjMV2ArTio2S+sXCjbQqSNr/f0pSEPwL0nIQj2/WGs=</dsig:DigestValue>
     </hash>
   </file>
   <file name="updates.runtimeconfig.json" size="372">
